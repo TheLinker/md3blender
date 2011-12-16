@@ -1,0 +1,25 @@
+Authors: PhaethonH, Bob Holcomb, Robert (Tr3B) Beckebans, f0rqu3
+Update By: TheLinker
+
+md3 import/export scripts updated for blender 2.59
+
+What it does:
+    Import.
+    Texturizes (almost).
+
+What it doesn't do:
+    Export.
+    Animation.
+    Several frames.
+
+Original doc:
+    """
+    This script imports a Quake 3 file (MD3), textures, 
+    and animations into Blender for editing. Loader is based on MD3 loader
+    from www.gametutorials.com-Thanks DigiBen! and the
+    md3 blender loader by PhaethonH <phaethon@linux.ucla.edu>
+    Updated by f0rqu3
+    thanks to Tr3B - xreal.sourceforge.net
+    """
+
+
